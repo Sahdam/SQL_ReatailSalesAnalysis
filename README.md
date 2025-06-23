@@ -99,3 +99,4 @@ DELETE FROM RetailSalesAnalysis WHERE quantiy IS NULL OR age IS NULL;
 3. Open and execute the SQL script located in:
 
 ## Author - Olayinka Yusuf
+https://www.linkedin.com/in/olayinka-yusuf-884362115/
